@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "AalX8w5+DE4gdAOj2V+iBqoz8w0/aayHEubmkNpS9XNvPhLk2n6Cb3tD4RBtHtKiPDj8mNpRtd1kKG0CrQHfag==",
+  "success": true,
+  "projectFilePath": "E:\\project\\neo-blockchain\\Neo3-Tokenomics-Song\\contracts\\TokenSong\\src\\TokenSongContract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\neo.buildtasks\\3.5.17\\neo.buildtasks.3.5.17.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\neo.smartcontract.framework\\3.5.0\\neo.smartcontract.framework.3.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "TokenSongContract depends on Neo.BuildTasks (>= 3.5.15) but Neo.BuildTasks 3.5.15 was not found. An approximate best match of Neo.BuildTasks 3.5.17 was resolved.",
+      "libraryId": "Neo.BuildTasks",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
